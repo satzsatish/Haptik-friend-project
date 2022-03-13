@@ -1,0 +1,7 @@
+.paginationList {
+  list-style: none;
+  display: inline-flex;
+}
+.paginationList li{
+  margin: 5px;
+}

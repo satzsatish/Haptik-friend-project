@@ -1,0 +1,8 @@
+.addBar {
+  width: 33%;
+}
+.addBar input {
+  width: 100%;
+  padding:10px;
+  outline: none;
+}

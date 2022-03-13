@@ -1,0 +1,9 @@
+.friendall {
+  width: 100%;
+}
+.friendall > .heading {
+  background-color: grey;
+  padding: 5px;
+  margin: 10px 0px auto;
+  text-align: left;
+}
