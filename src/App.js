@@ -27,7 +27,7 @@ export default function App() {
         }
       })
       if(nameExist != 'Y'){
-        if(friend.length > 4 && showpage == ''){
+        if(friend.length >= 4 && showpage == ''){
           SetShowPage('Y')
         }else{
           SetShowPage('');
